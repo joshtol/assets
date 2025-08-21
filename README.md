@@ -61,6 +61,53 @@ To use an asset, link to its raw file URL.
 | :---: | :--- | :---: |
 | <img src="https://raw.githubusercontent.com/joshtol/assets/main/illustrations/hero-background.svg" width="300"> | `hero-background.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/illustrations/hero-background.svg) |
 
+### Wild Research Icon Set
+
+#### Actions
+| Preview | Asset Name | Raw Link |
+| :---: | :--- | :---: |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/actions/delete-canister.svg" width="48"> | `delete-canister.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/actions/delete-canister.svg) |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/actions/duplicate-canister.svg" width="48"> | `duplicate-canister.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/actions/duplicate-canister.svg) |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/actions/edit-canister.svg" width="48"> | `edit-canister.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/actions/edit-canister.svg) |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/actions/execute-research.svg" width="48"> | `execute-research.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/actions/execute-research.svg) |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/actions/export-data.svg" width="48"> | `export-data.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/actions/export-data.svg) |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/actions/view-results.svg" width="48"> | `view-results.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/actions/view-results.svg) |
+
+#### Insights
+| Preview | Asset Name | Raw Link |
+| :---: | :--- | :---: |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/insights/insights.svg" width="48"> | `insights.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/insights/insights.svg) |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/insights/quality-score.svg" width="48"> | `quality-score.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/insights/quality-score.svg) |
+
+#### Navigation
+| Preview | Asset Name | Raw Link |
+| :---: | :--- | :---: |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/navigation/add-new.svg" width="48"> | `add-new.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/navigation/add-new.svg) |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/navigation/dashboard.svg" width="48"> | `dashboard.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/navigation/dashboard.svg) |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/navigation/search.svg" width="48"> | `search.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/navigation/search.svg) |
+
+#### Research
+| Preview | Asset Name | Raw Link |
+| :---: | :--- | :---: |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/research/canister.svg" width="48"> | `canister.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/research/canister.svg) |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/research/download.svg" width="48"> | `download.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/research/download.svg) |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/research/share.svg" width="48"> | `share.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/research/share.svg) |
+
+#### Status
+| Preview | Asset Name | Raw Link |
+| :---: | :--- | :---: |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/status/status-completed.svg" width="48"> | `status-completed.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/status/status-completed.svg) |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/status/status-created.svg" width="48"> | `status-created.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/status/status-created.svg) |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/status/status-failed.svg" width="48"> | `status-failed.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/status/status-failed.svg) |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/status/status-in-progress.svg" width="48"> | `status-in-progress.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/status/status-in-progress.svg) |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/status/status-queued.svg" width="48"> | `status-queued.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/status/status-queued.svg) |
+
+#### System
+| Preview | Asset Name | Raw Link |
+| :---: | :--- | :---: |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/system/filter.svg" width="48"> | `filter.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/system/filter.svg) |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/system/settings.svg" width="48"> | `settings.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/wild-research/system/settings.svg) |
+
 ---
 
 ## 📜 License
