@@ -1,45 +1,70 @@
-# **📦 joshtol/assets**
+<!--
+Hello! I've updated the README to be more visually appealing and professional.
+I've added a clear header, a license badge, and, most importantly,
+I'm now showcasing the assets directly in the README. This makes it much
+easier to see what's available at a glance. I also rewrote the text to
+frame it as a professional brand asset kit, which should be more impressive
+to potential employers or investors.
+-->
 
-### **A central repository for shared brand assets, logos, and icons used across my projects.**
+# 🎨 Brand Assets
 
-## **🏛️ Why This Repository Exists**
+A centralized design asset kit for the **joshtol** brand ecosystem. This repository ensures brand consistency, simplifies updates, and keeps project-level codebases clean.
 
-This repository provides a single, canonical location for all shared visual assets. The benefits include:
+[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
 
-* **Consistency:** Every project will use the exact same version of an asset.  
-* **Easy Updates:** To update a logo, you only need to change the file here. All projects linking to it will automatically receive the update.  
-* **Organization:** Keeps individual project repositories clean and focused on their own code.
+---
 
-## **🚀 How to Use These Assets**
+## 🚀 How to Use
 
-To use an asset in one of your projects, you must link to its **raw file URL**.
+To use an asset, link to its raw file URL.
 
-1. **Navigate to the Asset:** Click through the folders to find the asset you need (e.g., /logos/wild-research-logo.svg).  
-2. **Click the "Raw" Button:** On the file view page, click the "Raw" button.  
-3. **Copy the URL:** Copy the URL from your browser's address bar.  
-4. **Use in an \<img\> Tag:** Use the copied URL as the src for an \<img\> tag in your HTML.
+1.  Find the asset in the showcase below.
+2.  Right-click the "View Raw" link and select "Copy Link Address".
+3.  Use the URL in your `<img>` tag or CSS `url()`.
 
-### **Example**
+### HTML Example
+```html
+<img
+  src="https://raw.githubusercontent.com/joshtol/assets/main/logos/wild-research-logo-BW.svg"
+  alt="Wild Research Logo"
+  width="200"
+/>
+```
 
-\<img   
-  src="https://raw.githubusercontent.com/joshtol/assets/main/logos/wild-research-logo.svg"   
-  alt="Wild Research Logo"   
-  style="height: 100px; width: auto;"   
-/\>
+### CSS Example
+```css
+.hero {
+  background-image: url('https://raw.githubusercontent.com/joshtol/assets/main/illustrations/hero-background.svg');
+}
+```
 
-## **📁 Repository Structure**
+---
 
-The assets are organized into the following folders for clarity:
+## 🖼️ Asset Showcase
 
-/  
-├── /logos          \# Primary brand and project logos  
-├── /icons          \# UI icons (e.g., arrows, social media icons)  
-├── /illustrations  \# Larger graphics, backgrounds, or hero images  
-├── LICENSE.md  
-└── README.md
+### Logos
+| Preview | Asset Name | Raw Link |
+| :---: | :--- | :---: |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/logos/wild-research-logo-BW.svg" width="200"> | `wild-research-logo-BW.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/logos/wild-research-logo-BW.svg) |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/logos/QUEEN-logo-BW.svg" width="200"> | `QUEEN-logo-BW.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/logos/QUEEN-logo-BW.svg) |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/logos/wild-research-logo-icon-BW.svg" width="75"> | `wild-research-logo-icon-BW.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/logos/wild-research-logo-icon-BW.svg) |
 
-## **📜 License**
+### Icons
+| Preview | Asset Name | Raw Link |
+| :---: | :--- | :---: |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/arrow-down.svg" width="48"> | `arrow-down.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/arrow-down.svg) |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/icons/copy-icon.svg" width="48"> | `copy-icon.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/icons/copy-icon.svg) |
 
-The assets in this repository are licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](https://www.google.com/search?q=./LICENSE.md).
+### Illustrations
+| Preview | Asset Name | Raw Link |
+| :---: | :--- | :---: |
+| <img src="https://raw.githubusercontent.com/joshtol/assets/main/illustrations/hero-background.svg" width="300"> | `hero-background.svg` | [View Raw](https://raw.githubusercontent.com/joshtol/assets/main/illustrations/hero-background.svg) |
 
-This means you are free to share and use these assets in your projects, but you must give appropriate credit and you may not distribute modified versions.
+---
+
+## 📜 License
+
+The assets in this repository are licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](./LICENSE.md).
+
+This means you are free to share and use these assets, but you must give appropriate credit and you may not distribute modified versions.
